@@ -1,4 +1,4 @@
-## Ms-GraphSIM: Inferring Point Cloud Quality via Multiscale Graph Similarity
+## MS-GraphSIM: Inferring Point Cloud Quality via Multiscale Graph Similarity
 
 Before running Ms_GraphSIM, please install GSPbox first (https://github.com/epfl-lts2/gspbox) 
 We upload a version of GSPbox, please use gspbox-master.zip, different versions might cause BUG.
@@ -6,7 +6,7 @@ We upload a version of GSPbox, please use gspbox-master.zip, different versions 
 ```
 Demo_fast_make.m
 ```
-### Ms_GraphSIM
+### MS_GraphSIM
 
 ```markdown
 MS_GraphSIM.m
