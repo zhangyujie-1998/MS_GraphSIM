@@ -9,4 +9,4 @@ Please unzip "point cloud sample.7z". Then run
 ```markdown
 MS_GraphSIM.m
 ```
-The output is a quality score for the distorted point cloud “redandblack_0_0”.
+The output is the quality score for the distorted point cloud “redandblack_0_0”.
