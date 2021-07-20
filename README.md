@@ -5,7 +5,7 @@ Before running MS_GraphSIM, please install GSPbox first (https://github.com/epfl
 We upload a version of GSPbox, please use gspbox-master.zip, different versions might cause BUG.
 
 ### MS_GraphSIM
-Please use "point cloud sample.7z". Then run
+Please unzip "point cloud sample.7z". Then run
 ```markdown
 MS_GraphSIM.m
 ```
