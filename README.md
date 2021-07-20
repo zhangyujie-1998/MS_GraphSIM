@@ -7,7 +7,7 @@ We upload a version of GSPbox, please use gspbox-master.zip, different versions 
 Demo_fast_make.m
 ```
 ### MS_GraphSIM
-
+unzip the file "
 ```markdown
 MS_GraphSIM.m
 ```
