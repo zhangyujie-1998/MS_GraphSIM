@@ -3,13 +3,10 @@ MS-GraphSIM is an objective metric for point cloud quality assessment. This full
 
 Before running MS_GraphSIM, please install GSPbox first (https://github.com/epfl-lts2/gspbox) 
 We upload a version of GSPbox, please use gspbox-master.zip, different versions might cause BUG.
-### Resampling 
-```
-Demo_fast_make.m
-```
+
 ### MS_GraphSIM
 Please use "point cloud sample.7z". Then run
 ```markdown
 MS_GraphSIM.m
 ```
-The output is a quality score for the distorted point cloud.
+The output is a quality score for the distorted point cloud “redandblack_0_0”.
