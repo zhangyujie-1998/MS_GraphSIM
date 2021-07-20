@@ -9,6 +9,6 @@ Demo_fast_make.m
 ### Ms_GraphSIM
 
 ```markdown
-Ms_GraphSIM.m
+MS_GraphSIM.m
 ```
 
