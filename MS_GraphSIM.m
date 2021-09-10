@@ -3,8 +3,8 @@
 % name_r: reference point cloud
 % name_d: distorted point cloud
 % r_b: blurring radius
-% r_s£ºshrinking rate
-% scale: the number of scales that are fused into a multiscale score
+% r_sÂ£Âºshrinking rate
+% n_s: the number of scales that are fused into a multiscale score
 
 clear
 name_fast = ('redandblack10000_4.ply');
